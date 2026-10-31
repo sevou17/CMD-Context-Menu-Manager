@@ -1,6 +1,13 @@
 # CMD Context Menu Manager
 
 A lightweight Windows batch script to manage Command Prompt (CMD) context menu entries in File Explorer.
+## Screenshots
+
+### Main Menu
+![Screenshot 1](screenshots1.png)
+
+### Context Menu
+![Screenshot 2](screenshots2.png)
 
 ## Features
 
